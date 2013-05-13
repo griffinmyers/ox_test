@@ -1,7 +1,7 @@
 ox_test
 =======
 
-A test case that shows the Ox Sax Parses seg faulting within a rails app. 
+A test case that shows the Ox Sax Parser seg faulting within a rails app. 
 
 Installation and Running
 ========================
