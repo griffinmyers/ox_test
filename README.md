@@ -11,6 +11,7 @@ Installation and Running
 * `bundle install`
 * `rails s`
 * `while(1)`
+  * visit `http://localhost:3000/parse/` 
   * `Refresh a few times`
   * `wait a minute`
   * `refresh a bit more`
