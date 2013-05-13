@@ -15,3 +15,5 @@ Installation and Running
   * `wait a minute`
   * `refresh a bit more`
   * `give it some time`
+
+Generally within ~5 minutes I'll see the rails seg fault
